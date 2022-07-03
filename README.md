@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ping-Toven
-- 👀 I’m building @tekDAO and working at @JaduHologram
+- 👀 I’m  working at @JaduHologram
 - 🌱 I’m currently learning chain data tooling
 - 📫 How to reach me - twitter @tekToven
 
