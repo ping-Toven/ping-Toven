@@ -1,6 +1,5 @@
-- Hi. I'm Toven
-- I’m  working at @JaduHologram
-- Reach me on twitter @tekToven
+- Hi. I'm Toven. I build communities and bots, mostly communities.
+- Reach me on Twitter @pingtoven
 
 <!---
 ping-Toven/ping-Toven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
