@@ -1,4 +1,4 @@
-- Hi. I'm Toven. I build communities and bots, mostly communities.
+- Hi. I'm Toven. I'm a tech generalist building OpenRouter.
 - Reach me on Twitter @pingtoven
 
 <!---
